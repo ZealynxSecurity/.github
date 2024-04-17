@@ -10,8 +10,7 @@ Contact Us for:
 * Fuzzing and Formal Verification for your protocol - We use Foundry and Echidna/Medusa (Fuzzing) and Halmos, Kontrol and ityFuzz (FV)
 * Smart Contract development - Solidity and Solana development
 
-### [Zealynx Portfolio](https://github.com/ZealynxSecurity/Zealynx/tree/main/Zealynx-portfolio) 
-### [Learn with Zealynx](https://github.com/ZealynxSecurity/Zealynx/tree/main/EducationalContent) 
-
-[Why do you need Fuzzing and Formal Verification?](https://github.com/ZealynxSecurity/Zealynx/tree/main/AboutUs)
+### ➡️ [Zealynx Portfolio](https://github.com/ZealynxSecurity/Zealynx/tree/main/Zealynx-portfolio) 
+### ➡️ [Zealynx Blog](https://zealynx.hashnode.dev/)
+#### [Learn with Zealynx](https://github.com/ZealynxSecurity/Zealynx/tree/main/EducationalContent) 
 
