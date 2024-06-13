@@ -15,7 +15,7 @@ Founded in January 2024
 - Zealynx Security - [Twitter](https://x.com/ZealynxSecurity), [LinkedIn](https://www.linkedin.com/company/zealynx-security/), [Blog](https://zealynx.hashnode.dev/)
 
 
-# What do we do?
+# Portfolio
 
 ### Smart Contract Audits with Solidity and Rust
   [Check our Portfolio](https://github.com/ZealynxSecurity/Zealynx/blob/main/Zealynx-portfolio/audit-portfolio/Audit-portfolio.md)
