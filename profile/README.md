@@ -21,13 +21,13 @@ Founded in January 2024
   [Check our Portfolio](https://github.com/ZealynxSecurity/Zealynx/blob/main/Zealynx-portfolio/audit-portfolio/Audit-portfolio.md)
 
 ### Smart Contract Fuzzing and Formal Verification Test Suites
-[Check our Test Campaigns](https://github.com/ZealynxSecurity/Zealynx/blob/84051372fdbb9a8a4b175af99875c23244f68b00/Zealynx-portfolio/Fuzzing-FormalVerification-portfolio.md)
+[Check our Test Campaigns](https://github.com/ZealynxSecurity/Zealynx/blob/main/Zealynx-portfolio/Fuzzing-FormalVerification-portfolio.md)
 - How can Fuzzing and Formal Verification improve Security Reviews? ([Read](https://github.com/ZealynxSecurity/Zealynx/blob/2cdf496c4c76767bb8ee8b7d2e6a358a78b41e07/AboutUs/Why-you-need-Fuzzing-FV.md))
 - How do we provide value with Fuzzing and Invariant Tests? ([Read](https://github.com/ZealynxSecurity/Zealynx/blob/ce4d609adceece23e08881d1b867a4bbb77effe6/AboutUs/Invariant-tests-with-Echidna.md))
 - How do we help DeFi protocols with Formal Verification? ([Read](https://github.com/ZealynxSecurity/Zealynx/blob/2cdf496c4c76767bb8ee8b7d2e6a358a78b41e07/AboutUs/Our-Formal-Verification-Service.md))
 
 ### Smart Contract Development with Solidity and Rust 
-[Check our Projects](https://github.com/ZealynxSecurity/Zealynx/blob/9d5db7221c9e062b5e3eb15cda29414f4ceaa855/Zealynx-portfolio/Development-portfolio.md)
+[Check our Projects](https://github.com/ZealynxSecurity/Zealynx/blob/main/Zealynx-portfolio/Development-portfolio.md)
 
 # Trusted by our Clients
 - [Shieldify](https://www.shieldify.org/) (Auditor's firm)
