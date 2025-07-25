@@ -1,4 +1,4 @@
-![zealynx-final-banner2 1](https://github.com/ZealynxSecurity/.github/assets/23363641/cbcc0edb-b216-485f-975b-073ee080a6a2)
+![zealynx-final-banner2 1](https://github.com/user-attachments/assets/a4d7a549-d236-4ec3-a4e2-3aeb424333bd)
 
 # Who are we?
 
