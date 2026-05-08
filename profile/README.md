@@ -2,24 +2,48 @@
 
 # Who are we?
 
+Smart-contract and Web3 application security audits.
+Manual review, property-based testing, and selective formal verification — three tracks, every engagement.
+
+**29** public audits · **6** open-source testing campaigns · **14** protocol-type checklists in [Krait](https://krait.zealynx.io)
+
 ### Founder:
 
 - Bloqarl - [Twitter](https://x.com/TheBlockChainer), [Telegram](https://t.me/vendrell46), [Medium](https://medium.com/@bloqarl), [Youtube](http://youtube.com/@theblockchainer), [LinkedIn](https://www.linkedin.com/in/carlos-vendrell-felici/)
-  
+
 ### Zealynx:
 
 Founded in January 2024
 
-- Zealynx - [Website](zealynx.io), [Twitter](https://x.com/ZealynxSecurity), [LinkedIn](https://www.linkedin.com/company/zealynx-security/), [Blog](https://www.zealynx.io/blogs)
+- Zealynx - [Website](https://zealynx.io), [Twitter](https://x.com/ZealynxSecurity), [LinkedIn](https://www.linkedin.com/company/zealynx-security/), [Blog](https://www.zealynx.io/blogs)
 
 
 # Portfolio
 
-### Smart Contract Audits 
-  [Portfolio](https://github.com/ZealynxSecurity/Zealynx/blob/main/Zealynx-portfolio/audit-portfolio/Audit-portfolio.md)
+### Smart Contract Audits
 
-### Smart Contract Development with Solidity and Rust 
+**[audits](https://github.com/ZealynxSecurity/audits)** — 29 public audit reports (21 Web3 + 8 Web2), organized by chain and protocol type, with severity breakdowns from each engagement. Solidity, Solana, Sway, Rust, and TypeScript.
+
+### Public testing campaigns
+
+Self-contained invariant-testing or formal-verification projects shipped alongside reviews:
+
+- [pools](https://github.com/ZealynxSecurity/pools) — Glif (Filecoin DeFi primitive)
+- [Glif_LiquidityMinerLP](https://github.com/ZealynxSecurity/Glif_LiquidityMinerLP) — Glif liquidity mining
+- [Revert-Protocol](https://github.com/ZealynxSecurity/Revert-Protocol) — Revert Finance (AMM LP)
+- [Wedefin](https://github.com/ZealynxSecurity/Wedefin) — Wedefin (decentralized index fund)
+- [Portals-local](https://github.com/ZealynxSecurity/Portals-local) — Possum Labs (yield-bearing staking)
+- [BastionWallet](https://github.com/ZealynxSecurity/BastionWallet) — Bastion Wallet (ERC-4337 / AA SDK)
+
+### Smart Contract Development with Solidity and Rust
+
 [Projects](https://github.com/ZealynxSecurity/Zealynx/blob/main/Zealynx-portfolio/Development-portfolio.md)
+
+
+# Methodology
+
+[Krait](https://krait.zealynx.io) is our checklist platform, built from real Solodit findings and structured by protocol type. It informs both the manual review and the property-based tests we ship with every engagement.
+
 
 # Public Achievements
 
@@ -27,14 +51,15 @@ Founded in January 2024
 - We won Uniswap's Hackathon. In September 2024, Zealynx won the Uniswap Hook Incubator hackathon (UHI2).
 - Received a grant from Mangrove protocol in February 2025 to implement for them a LVR & IL Hedge Hook with dynamic fees and borrowing hedges.
 - Partnered with Immunefi as one of their go-to auditor for their Immunefi Audits program.
-  
+
+
 # Educational Content
 
-- Challenges: 
-  - [Foundry](https://github.com/ZealynxSecurity/Zealynx/blob/958fd617678eab920c50ff233dab9f0a6c96528f/EducationalContent/Challenges/Foundry-Challenges) 
-  - [Rust](https://github.com/ZealynxSecurity/Zealynx/blob/5c3f8b2c9f7029487ec9cfd747f32a39f315ac25/EducationalContent/Challenges/Rust-Challenges) 
-  - [Security Tips for Solidity devs](https://github.com/ZealynxSecurity/Zealynx/blob/958fd617678eab920c50ff233dab9f0a6c96528f/EducationalContent/Challenges/Security-Solidity-Challenges)
+- Challenges:
+  - [Foundry](https://github.com/ZealynxSecurity/Zealynx/blob/main/EducationalContent/Challenges/Foundry-Challenges)
+  - [Rust](https://github.com/ZealynxSecurity/Zealynx/blob/main/EducationalContent/Challenges/Rust-Challenges)
+  - [Security Tips for Solidity devs](https://github.com/ZealynxSecurity/Zealynx/blob/main/EducationalContent/Challenges/Security-Solidity-Challenges)
 
 - Fuzzing Material:
-  - [Foundry](https://github.com/ZealynxSecurity/Zealynx/blob/5c3f8b2c9f7029487ec9cfd747f32a39f315ac25/EducationalContent/Fuzzing/Foundry)
-  - [Echidna/Medusa](https://github.com/ZealynxSecurity/Zealynx/blob/7d379c018f387688ebf1982c3077d54dfd2ad792/EducationalContent/Fuzzing/Echidna-Medusa)
+  - [Foundry](https://github.com/ZealynxSecurity/Zealynx/blob/main/EducationalContent/Fuzzing/Foundry)
+  - [Echidna/Medusa](https://github.com/ZealynxSecurity/Zealynx/blob/main/EducationalContent/Fuzzing/Echidna-Medusa)
