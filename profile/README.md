@@ -11,13 +11,15 @@ Premium, personalized security. Direct access to senior auditors, not a ticket q
 Manual review, property-based testing, and selective formal verification on every engagement.
 
 <p>
-  <a href="https://zealynx.io"><img src="https://img.shields.io/badge/Visit_zealynx.io-13B7C1?style=for-the-badge&labelColor=0a0a0a" alt="Visit zealynx.io"></a>
-  <a href="https://zealynx.io"><img src="https://img.shields.io/badge/Request_an_audit-13B7C1?style=for-the-badge&labelColor=0a0a0a" alt="Request an audit"></a>
+  <a href="https://grants.zealynx.io"><img src="https://img.shields.io/badge/Audit_Grants-13B7C1?style=for-the-badge&labelColor=0a0a0a" alt="Audit Grants"></a>
+  <a href="https://academy.zealynx.io"><img src="https://img.shields.io/badge/Academy-13B7C1?style=for-the-badge&labelColor=0a0a0a" alt="Academy"></a>
   <a href="https://krait.zealynx.io"><img src="https://img.shields.io/badge/Krait-13B7C1?style=for-the-badge&labelColor=0a0a0a" alt="Krait"></a>
+  <a href="https://zealynx.io"><img src="https://img.shields.io/badge/Request_an_audit-13B7C1?style=for-the-badge&labelColor=0a0a0a" alt="Request an audit"></a>
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/Public_audits-29-13B7C1?style=flat-square&labelColor=0a0a0a" alt="29 public audits">
+  <img src="https://img.shields.io/badge/Audit_grants-$100k+-13B7C1?style=flat-square&labelColor=0a0a0a" alt="$100k+ audit grants">
   <img src="https://img.shields.io/badge/Testing_campaigns-6-13B7C1?style=flat-square&labelColor=0a0a0a" alt="6 testing campaigns">
   <img src="https://img.shields.io/badge/Krait_checklists-14-13B7C1?style=flat-square&labelColor=0a0a0a" alt="14 Krait checklists">
   <img src="https://img.shields.io/badge/Stacks-EVM_·_Solana_·_NEAR_·_Fuel_·_TS-13B7C1?style=flat-square&labelColor=0a0a0a" alt="Stacks audited">
@@ -26,6 +28,62 @@ Manual review, property-based testing, and selective formal verification on ever
 </div>
 
 ---
+
+## Zealynx Audit Grants
+
+**Subsidized smart contract audits, applied directly as a credit to Zealynx engagements. Same quality as paid audits. No cash grants. No middlemen.**
+
+Over **$100,000 in audit grants** available each round, distributed across three tiers. Eligible Web3 protocols apply through [grants.zealynx.io](https://grants.zealynx.io); winners receive their grant as a discount on a Zealynx audit invoice. Same founder-led methodology as paid engagements.
+
+<table>
+<tr>
+  <td valign="top" width="33%">
+    <h4>Core Grant</h4>
+    <strong>100% subsidy</strong><br>
+    Up to $32,000 covered<br>
+    One awarded per round
+  </td>
+  <td valign="top" width="33%">
+    <h4>Growth Grant</h4>
+    <strong>50% subsidy</strong><br>
+    Up to $16,000 covered<br>
+    Two awarded per round
+  </td>
+  <td valign="top" width="33%">
+    <h4>Builder Grant</h4>
+    <strong>25% subsidy</strong><br>
+    Up to $8,000 covered<br>
+    Multiple awarded per round
+  </td>
+</tr>
+</table>
+
+<a href="https://grants.zealynx.io"><img src="https://img.shields.io/badge/Apply_at_grants.zealynx.io-13B7C1?style=for-the-badge&labelColor=0a0a0a" alt="Apply at grants.zealynx.io"></a>
+
+## Zealynx Academy
+
+**Build real DeFi protocols from scratch, line by line. Audit real forks. Learn to launch your own.**
+
+Free education platform at [academy.zealynx.io](https://academy.zealynx.io). Three tracks for engineers going from code to launched protocol.
+
+<table>
+<tr>
+  <td valign="top" width="33%">
+    <h4>01. Build the Protocol</h4>
+    Pick Uniswap V2. Write every function. Pass 207 tests. Understand every line before you fork it.
+  </td>
+  <td valign="top" width="33%">
+    <h4>02. Audit a Real Fork</h4>
+    Shadow Arena. Review a real protocol from a past contest. Find vulnerabilities, get scored, compete.
+  </td>
+  <td valign="top" width="33%">
+    <h4>03. Learn to Launch</h4>
+    eMBA for Web3 Founders. Tokenomics, fundraising, governance, go-to-market. From code to business.
+  </td>
+</tr>
+</table>
+
+<a href="https://academy.zealynx.io"><img src="https://img.shields.io/badge/Start_at_academy.zealynx.io-13B7C1?style=for-the-badge&labelColor=0a0a0a" alt="Start at academy.zealynx.io"></a>
 
 ## Featured engagements
 
