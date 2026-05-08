@@ -29,7 +29,7 @@
 
 **29 public audit reports** across Web3 onchain and offchain. Solidity, Solana, Sway, Rust, TypeScript. Co-audits with Codespect, AuditOne, Shieldify, and Soken.
 
-Founder-led engagements with direct access to senior auditors. Every review combines manual analysis with property-based testing, and selective formal verification when scope justifies it.
+**296 issues reported** across these engagements: 11 Critical, 47 High, 75 Medium, 108 Low, 55 Informational.
 
 A selection of recent and recognized engagements:
 
