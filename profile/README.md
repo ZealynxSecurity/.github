@@ -14,7 +14,7 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Public_audits-29-13B7C1?style=flat-square&labelColor=0a0a0a" alt="29 public audits">
+  <img src="https://img.shields.io/badge/Public_audits-31-13B7C1?style=flat-square&labelColor=0a0a0a" alt="31 public audits">
   <img src="https://img.shields.io/badge/Audit_grants-$100k+-13B7C1?style=flat-square&labelColor=0a0a0a" alt="$100k+ audit grants">
   <img src="https://img.shields.io/badge/Testing_campaigns-6-13B7C1?style=flat-square&labelColor=0a0a0a" alt="6 testing campaigns">
   <img src="https://img.shields.io/badge/Krait_checks-845+-13B7C1?style=flat-square&labelColor=0a0a0a" alt="845+ Krait checks">
@@ -27,9 +27,9 @@
 
 ## Audits
 
-**29 public audit reports** across Web3 onchain and offchain. Solidity, Solana, Sway, Rust, TypeScript. Co-audits with Codespect, AuditOne, Shieldify, and Soken.
+**31 public audit reports** across Web3 onchain and offchain. Solidity, Solana, Sway, Rust, TypeScript. Co-audits with Codespect, AuditOne, Shieldify, and Soken.
 
-**296 issues reported** across these engagements: 11 Critical, 47 High, 75 Medium, 108 Low, 55 Informational.
+**334 issues reported** across these engagements: 11 Critical, 48 High, 81 Medium, 126 Low, 68 Informational.
 
 A selection of recent and recognized engagements:
 
