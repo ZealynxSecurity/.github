@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/Public_audits-29-13B7C1?style=flat-square&labelColor=0a0a0a" alt="29 public audits">
   <img src="https://img.shields.io/badge/Audit_grants-$100k+-13B7C1?style=flat-square&labelColor=0a0a0a" alt="$100k+ audit grants">
   <img src="https://img.shields.io/badge/Testing_campaigns-6-13B7C1?style=flat-square&labelColor=0a0a0a" alt="6 testing campaigns">
-  <img src="https://img.shields.io/badge/Krait_checklists-14-13B7C1?style=flat-square&labelColor=0a0a0a" alt="14 Krait checklists">
+  <img src="https://img.shields.io/badge/Krait_checks-845+-13B7C1?style=flat-square&labelColor=0a0a0a" alt="845+ Krait checks">
   <img src="https://img.shields.io/badge/Stacks-EVM_·_Solana_·_NEAR_·_Fuel_·_TS-13B7C1?style=flat-square&labelColor=0a0a0a" alt="Stacks audited">
 </p>
 
@@ -103,7 +103,7 @@ Free education platform at [academy.zealynx.io](https://academy.zealynx.io). Thr
 
 ## Krait
 
-[**Krait**](https://krait.zealynx.io). Open-source AI security auditor with checklists structured by protocol type, sourced from real Solodit findings. 14 checklists at launch, including dedicated coverage for AI model security, LLM applications, and MCP servers.
+[**Krait**](https://krait.zealynx.io) ([source](https://github.com/ZealynxSecurity/krait)). Open-source AI security auditor delivered as Claude Code skills. 845+ checks across 39 protocol types covering Solidity, Rust, Solana, AI security, and Web2. 90% precision on 40 blind Code4rena contests. Zero API cost.
 
 ## Public testing campaigns
 
