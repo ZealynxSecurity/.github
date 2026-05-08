@@ -1,65 +1,76 @@
+<div align="center">
+
 ![zealynx-final-banner2 1](https://github.com/user-attachments/assets/a4d7a549-d236-4ec3-a4e2-3aeb424333bd)
 
-# Who are we?
+# Zealynx Security
 
-Smart-contract and Web3 application security audits.
-Manual review, property-based testing, and selective formal verification — three tracks, every engagement.
+**Boutique smart contract audit firm.**
 
-**29** public audits · **6** open-source testing campaigns · **14** protocol-type checklists in [Krait](https://krait.zealynx.io)
+Premium, personalized security. Direct access to senior auditors, not a ticket queue.
 
-### Founder:
+Manual review, property-based testing, and selective formal verification on every engagement.
 
-- Bloqarl - [Twitter](https://x.com/TheBlockChainer), [Telegram](https://t.me/vendrell46), [Medium](https://medium.com/@bloqarl), [Youtube](http://youtube.com/@theblockchainer), [LinkedIn](https://www.linkedin.com/in/carlos-vendrell-felici/)
+<p>
+  <a href="https://zealynx.io"><img src="https://img.shields.io/badge/Visit_zealynx.io-13B7C1?style=for-the-badge&labelColor=0a0a0a" alt="Visit zealynx.io"></a>
+  <a href="https://zealynx.io"><img src="https://img.shields.io/badge/Request_an_audit-13B7C1?style=for-the-badge&labelColor=0a0a0a" alt="Request an audit"></a>
+  <a href="https://krait.zealynx.io"><img src="https://img.shields.io/badge/Krait-13B7C1?style=for-the-badge&labelColor=0a0a0a" alt="Krait"></a>
+</p>
 
-### Zealynx:
+<p>
+  <img src="https://img.shields.io/badge/Public_audits-29-13B7C1?style=flat-square&labelColor=0a0a0a" alt="29 public audits">
+  <img src="https://img.shields.io/badge/Testing_campaigns-6-13B7C1?style=flat-square&labelColor=0a0a0a" alt="6 testing campaigns">
+  <img src="https://img.shields.io/badge/Krait_checklists-14-13B7C1?style=flat-square&labelColor=0a0a0a" alt="14 Krait checklists">
+  <img src="https://img.shields.io/badge/Stacks-EVM_·_Solana_·_NEAR_·_Fuel_·_TS-13B7C1?style=flat-square&labelColor=0a0a0a" alt="Stacks audited">
+</p>
 
-Founded in January 2024
+</div>
 
-- Zealynx - [Website](https://zealynx.io), [Twitter](https://x.com/ZealynxSecurity), [LinkedIn](https://www.linkedin.com/company/zealynx-security/), [Blog](https://www.zealynx.io/blogs)
+---
 
+## Featured engagements
 
-# Portfolio
+A selection of public audits. The full portfolio with severity counts and reports lives at [ZealynxSecurity/audits](https://github.com/ZealynxSecurity/audits).
 
-### Smart Contract Audits
+| Client | Scope | Year |
+|--------|-------|------|
+| [Lido Finance](https://github.com/ZealynxSecurity/audits/blob/main/web3/2024-07-zealynx-shieldify-lido.pdf) | Staking module and Staking router | 2024 |
+| [Badger DAO](https://github.com/ZealynxSecurity/audits/blob/main/web3/2024-10-zealynx-badger-dao.pdf) | Staking vault | 2024 |
+| [Aurora](https://github.com/ZealynxSecurity/audits/blob/main/web3/2024-04-zealynx-auditone-aurora-near-connector.pdf) | NEAR Rainbow Bridge connector | 2024 |
+| [Microchain](https://github.com/ZealynxSecurity/audits/blob/main/web3/2025-08-zealynx-microchain.pdf) | AMM on Fuel Network (Sway) | 2025 |
+| [Matchain](https://github.com/ZealynxSecurity/audits/blob/main/web3/2025-06-zealynx-matchain-1.pdf) | L2 liquid staking | 2025 |
+| [Bastion Wallet](https://github.com/ZealynxSecurity/audits/blob/main/web3/2024-03-zealynx-shieldify-bastion-wallet.pdf) | ERC-4337 account abstraction SDK | 2024 |
+| [TokenTable](https://github.com/ZealynxSecurity/audits/blob/main/web3/2025-04-zealynx-codespect-tokentable.pdf) | Merkle distributor (with Codespect) | 2025 |
 
-**[audits](https://github.com/ZealynxSecurity/audits)** — 29 public audit reports (21 Web3 + 8 Web2), organized by chain and protocol type, with severity breakdowns from each engagement. Solidity, Solana, Sway, Rust, and TypeScript.
+## Repositories
 
-### Public testing campaigns
+[**audits**](https://github.com/ZealynxSecurity/audits). 29 public audit reports across Web3 and Web2. Solidity, Solana, Sway, Rust, TypeScript. Severity breakdowns per engagement.
 
-Self-contained invariant-testing or formal-verification projects shipped alongside reviews:
+[**Krait**](https://krait.zealynx.io). AI security auditor, open source. Checklists structured by protocol type, sourced from real Solodit findings. 14 protocol-type checklists at launch.
 
-- [pools](https://github.com/ZealynxSecurity/pools) — Glif (Filecoin DeFi primitive)
-- [Glif_LiquidityMinerLP](https://github.com/ZealynxSecurity/Glif_LiquidityMinerLP) — Glif liquidity mining
-- [Revert-Protocol](https://github.com/ZealynxSecurity/Revert-Protocol) — Revert Finance (AMM LP)
-- [Wedefin](https://github.com/ZealynxSecurity/Wedefin) — Wedefin (decentralized index fund)
-- [Portals-local](https://github.com/ZealynxSecurity/Portals-local) — Possum Labs (yield-bearing staking)
-- [BastionWallet](https://github.com/ZealynxSecurity/BastionWallet) — Bastion Wallet (ERC-4337 / AA SDK)
+## Public testing campaigns
 
-### Smart Contract Development with Solidity and Rust
+Self-contained invariant testing and formal verification projects shipped alongside reviews.
 
-[Projects](https://github.com/ZealynxSecurity/Zealynx/blob/main/Zealynx-portfolio/Development-portfolio.md)
+| Repo | Client | Scope |
+|------|--------|-------|
+| [pools](https://github.com/ZealynxSecurity/pools) | Glif | Filecoin DeFi primitive |
+| [Glif_LiquidityMinerLP](https://github.com/ZealynxSecurity/Glif_LiquidityMinerLP) | Glif | Liquidity mining |
+| [Revert-Protocol](https://github.com/ZealynxSecurity/Revert-Protocol) | Revert Finance | AMM LP |
+| [Wedefin](https://github.com/ZealynxSecurity/Wedefin) | Wedefin | Decentralized index fund |
+| [Portals-local](https://github.com/ZealynxSecurity/Portals-local) | Possum Labs | Yield-bearing staking |
+| [BastionWallet](https://github.com/ZealynxSecurity/BastionWallet) | Bastion Wallet | ERC-4337 account abstraction SDK |
 
+## Highlights
 
-# Methodology
+- Top 5 finish on the [Beanstalk audit](https://github.com/ZealynxSecurity/Beanstalk-Part-1) at Cyfrin CodeHawks. $8,000 reward. [Announcement](https://x.com/TheBlockChainer/status/1777568713849328003).
+- Winner of the Uniswap Hook Incubator hackathon (UHI2), September 2024.
+- Mangrove Protocol grant, February 2025, to implement a Loss Versus Rebalancing and Impermanent Loss hedge hook with dynamic fees and borrowing hedges.
+- Partner auditor in the Immunefi Audits program.
 
-[Krait](https://krait.zealynx.io) is our checklist platform, built from real Solodit findings and structured by protocol type. It informs both the manual review and the property-based tests we ship with every engagement.
+## About
 
+**Carlos Vendrell Felici**, known as Bloqarl. Founder. Based in Wroclaw, Poland.
+[Twitter](https://x.com/TheBlockChainer) · [Telegram](https://t.me/vendrell46) · [LinkedIn](https://www.linkedin.com/in/carlos-vendrell-felici/) · [Medium](https://medium.com/@bloqarl) · [YouTube](http://youtube.com/@theblockchainer)
 
-# Public Achievements
-
-- Top 5 on Beanstalk Audit rewarded with $8k - [Check Cyfrin CodeHawks announcement](https://x.com/TheBlockChainer/status/1777568713849328003) && [Check Report](https://github.com/ZealynxSecurity/Beanstalk-Part-1)
-- We won Uniswap's Hackathon. In September 2024, Zealynx won the Uniswap Hook Incubator hackathon (UHI2).
-- Received a grant from Mangrove protocol in February 2025 to implement for them a LVR & IL Hedge Hook with dynamic fees and borrowing hedges.
-- Partnered with Immunefi as one of their go-to auditor for their Immunefi Audits program.
-
-
-# Educational Content
-
-- Challenges:
-  - [Foundry](https://github.com/ZealynxSecurity/Zealynx/blob/main/EducationalContent/Challenges/Foundry-Challenges)
-  - [Rust](https://github.com/ZealynxSecurity/Zealynx/blob/main/EducationalContent/Challenges/Rust-Challenges)
-  - [Security Tips for Solidity devs](https://github.com/ZealynxSecurity/Zealynx/blob/main/EducationalContent/Challenges/Security-Solidity-Challenges)
-
-- Fuzzing Material:
-  - [Foundry](https://github.com/ZealynxSecurity/Zealynx/blob/main/EducationalContent/Fuzzing/Foundry)
-  - [Echidna/Medusa](https://github.com/ZealynxSecurity/Zealynx/blob/main/EducationalContent/Fuzzing/Echidna-Medusa)
+**Zealynx Security**. Founded January 2024.
+[Website](https://zealynx.io) · [Twitter](https://x.com/ZealynxSecurity) · [LinkedIn](https://www.linkedin.com/company/zealynx-security/) · [Blog](https://www.zealynx.io/blogs)
