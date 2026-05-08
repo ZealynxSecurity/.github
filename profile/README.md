@@ -25,6 +25,26 @@
 
 ---
 
+## Audits
+
+**29 public audit reports** across Web3 onchain and offchain. Solidity, Solana, Sway, Rust, TypeScript. Co-audits with Codespect, AuditOne, Shieldify, and Soken.
+
+Founder-led engagements with direct access to senior auditors. Every review combines manual analysis with property-based testing, and selective formal verification when scope justifies it.
+
+A selection of recent and recognized engagements:
+
+| Client | Scope | Year |
+|--------|-------|------|
+| [Lido Finance](https://github.com/ZealynxSecurity/audits/blob/main/web3/2024-07-zealynx-shieldify-lido.pdf) | Staking module and Staking router | 2024 |
+| [Badger DAO](https://github.com/ZealynxSecurity/audits/blob/main/web3/2024-10-zealynx-badger-dao.pdf) | Staking vault | 2024 |
+| [Aurora](https://github.com/ZealynxSecurity/audits/blob/main/web3/2024-04-zealynx-auditone-aurora-near-connector.pdf) | NEAR Rainbow Bridge connector | 2024 |
+| [Microchain](https://github.com/ZealynxSecurity/audits/blob/main/web3/2025-08-zealynx-microchain.pdf) | AMM on Fuel Network (Sway) | 2025 |
+| [Matchain](https://github.com/ZealynxSecurity/audits/blob/main/web3/2025-06-zealynx-matchain-1.pdf) | L2 liquid staking | 2025 |
+| [Bastion Wallet](https://github.com/ZealynxSecurity/audits/blob/main/web3/2024-03-zealynx-shieldify-bastion-wallet.pdf) | ERC-4337 account abstraction SDK | 2024 |
+| [TokenTable](https://github.com/ZealynxSecurity/audits/blob/main/web3/2025-04-zealynx-codespect-tokentable.pdf) | Merkle distributor (with Codespect) | 2025 |
+
+The complete portfolio with per-engagement severity breakdowns lives at [**ZealynxSecurity/audits**](https://github.com/ZealynxSecurity/audits). Reports under NDA are listed at [zealynx.io/about-us#portfolio](https://zealynx.io/about-us#portfolio).
+
 ## Zealynx Audit Grants
 
 **Subsidized smart contract audits, applied directly as a credit to Zealynx engagements. Same quality as paid audits. No cash grants. No middlemen.**
@@ -81,25 +101,9 @@ Free education platform at [academy.zealynx.io](https://academy.zealynx.io). Thr
 
 <a href="https://academy.zealynx.io"><img src="https://img.shields.io/badge/Start_at_academy.zealynx.io-13B7C1?style=for-the-badge&labelColor=0a0a0a" alt="Start at academy.zealynx.io"></a>
 
-## Featured engagements
+## Krait
 
-A selection of public audits. The full portfolio with severity counts and reports lives at [ZealynxSecurity/audits](https://github.com/ZealynxSecurity/audits).
-
-| Client | Scope | Year |
-|--------|-------|------|
-| [Lido Finance](https://github.com/ZealynxSecurity/audits/blob/main/web3/2024-07-zealynx-shieldify-lido.pdf) | Staking module and Staking router | 2024 |
-| [Badger DAO](https://github.com/ZealynxSecurity/audits/blob/main/web3/2024-10-zealynx-badger-dao.pdf) | Staking vault | 2024 |
-| [Aurora](https://github.com/ZealynxSecurity/audits/blob/main/web3/2024-04-zealynx-auditone-aurora-near-connector.pdf) | NEAR Rainbow Bridge connector | 2024 |
-| [Microchain](https://github.com/ZealynxSecurity/audits/blob/main/web3/2025-08-zealynx-microchain.pdf) | AMM on Fuel Network (Sway) | 2025 |
-| [Matchain](https://github.com/ZealynxSecurity/audits/blob/main/web3/2025-06-zealynx-matchain-1.pdf) | L2 liquid staking | 2025 |
-| [Bastion Wallet](https://github.com/ZealynxSecurity/audits/blob/main/web3/2024-03-zealynx-shieldify-bastion-wallet.pdf) | ERC-4337 account abstraction SDK | 2024 |
-| [TokenTable](https://github.com/ZealynxSecurity/audits/blob/main/web3/2025-04-zealynx-codespect-tokentable.pdf) | Merkle distributor (with Codespect) | 2025 |
-
-## Repositories
-
-[**audits**](https://github.com/ZealynxSecurity/audits). 29 public audit reports across Web3 and Web2. Solidity, Solana, Sway, Rust, TypeScript. Severity breakdowns per engagement.
-
-[**Krait**](https://krait.zealynx.io). AI security auditor, open source. Checklists structured by protocol type, sourced from real Solodit findings. 14 protocol-type checklists at launch.
+[**Krait**](https://krait.zealynx.io). Open-source AI security auditor with checklists structured by protocol type, sourced from real Solodit findings. 14 checklists at launch, including dedicated coverage for AI model security, LLM applications, and MCP servers.
 
 ## Public testing campaigns
 
