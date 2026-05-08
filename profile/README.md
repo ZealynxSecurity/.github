@@ -4,11 +4,7 @@
 
 # Zealynx Security
 
-**Boutique smart contract audit firm.**
-
-Premium, personalized security. Direct access to senior auditors, not a ticket queue.
-
-Manual review, property-based testing, and selective formal verification on every engagement.
+**Web3 (onchain and offchain) and AI security.**
 
 <p>
   <a href="https://grants.zealynx.io"><img src="https://img.shields.io/badge/Audit_Grants-13B7C1?style=for-the-badge&labelColor=0a0a0a" alt="Audit Grants"></a>
