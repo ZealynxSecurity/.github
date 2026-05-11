@@ -10,7 +10,7 @@
   <a href="https://grants.zealynx.io"><img src="https://img.shields.io/badge/Audit_Grants-13B7C1?style=for-the-badge&labelColor=0a0a0a" alt="Audit Grants"></a>
   <a href="https://academy.zealynx.io"><img src="https://img.shields.io/badge/Academy-13B7C1?style=for-the-badge&labelColor=0a0a0a" alt="Academy"></a>
   <a href="https://krait.zealynx.io"><img src="https://img.shields.io/badge/Krait-13B7C1?style=for-the-badge&labelColor=0a0a0a" alt="Krait"></a>
-  <a href="https://zealynx.io"><img src="https://img.shields.io/badge/Request_an_audit-13B7C1?style=for-the-badge&labelColor=0a0a0a" alt="Request an audit"></a>
+  <a href="https://www.zealynx.io/quote"><img src="https://img.shields.io/badge/Request_an_audit-13B7C1?style=for-the-badge&labelColor=0a0a0a" alt="Request an audit"></a>
 </p>
 
 <p>
@@ -35,13 +35,13 @@ A selection of recent and recognized engagements:
 
 | Client | Scope | Year |
 |--------|-------|------|
-| [Lido Finance](https://github.com/ZealynxSecurity/audits/blob/main/web3/2024-07-zealynx-shieldify-lido.pdf) | Staking module and Staking router | 2024 |
-| [Badger DAO](https://github.com/ZealynxSecurity/audits/blob/main/web3/2024-10-zealynx-badger-dao.pdf) | Staking vault | 2024 |
-| [Aurora](https://github.com/ZealynxSecurity/audits/blob/main/web3/2024-04-zealynx-auditone-aurora-near-connector.pdf) | NEAR Rainbow Bridge connector | 2024 |
 | [Microchain](https://github.com/ZealynxSecurity/audits/blob/main/web3/2025-08-zealynx-microchain.pdf) | AMM on Fuel Network (Sway) | 2025 |
 | [Matchain](https://github.com/ZealynxSecurity/audits/blob/main/web3/2025-06-zealynx-matchain-1.pdf) | L2 liquid staking | 2025 |
-| [Bastion Wallet](https://github.com/ZealynxSecurity/audits/blob/main/web3/2024-03-zealynx-shieldify-bastion-wallet.pdf) | ERC-4337 account abstraction SDK | 2024 |
 | [TokenTable](https://github.com/ZealynxSecurity/audits/blob/main/web3/2025-04-zealynx-codespect-tokentable.pdf) | Merkle distributor (with Codespect) | 2025 |
+| [Badger DAO](https://github.com/ZealynxSecurity/audits/blob/main/web3/2024-10-zealynx-badger-dao.pdf) | Staking vault | 2024 |
+| [Lido Finance](https://github.com/ZealynxSecurity/audits/blob/main/web3/2024-07-zealynx-shieldify-lido.pdf) | Staking module and Staking router | 2024 |
+| [Aurora](https://github.com/ZealynxSecurity/audits/blob/main/web3/2024-04-zealynx-auditone-aurora-near-connector.pdf) | NEAR Rainbow Bridge connector | 2024 |
+| [Bastion Wallet](https://github.com/ZealynxSecurity/audits/blob/main/web3/2024-03-zealynx-shieldify-bastion-wallet.pdf) | ERC-4337 account abstraction SDK | 2024 |
 
 The complete portfolio with per-engagement severity breakdowns lives at [**ZealynxSecurity/audits**](https://github.com/ZealynxSecurity/audits). Reports under NDA are listed at [zealynx.io/about-us#portfolio](https://zealynx.io/about-us#portfolio).
 
@@ -74,7 +74,9 @@ Over **$100,000 in audit grants** available each round, distributed across three
 </tr>
 </table>
 
-<a href="https://grants.zealynx.io"><img src="https://img.shields.io/badge/Apply_at_grants.zealynx.io-13B7C1?style=for-the-badge&labelColor=0a0a0a" alt="Apply at grants.zealynx.io"></a>
+<p align="center">
+  <a href="https://grants.zealynx.io"><img src="https://img.shields.io/badge/Apply_at_grants.zealynx.io-13B7C1?style=for-the-badge&labelColor=0a0a0a" alt="Apply at grants.zealynx.io"></a>
+</p>
 
 ## Zealynx Academy
 
@@ -99,11 +101,17 @@ Free education platform at [academy.zealynx.io](https://academy.zealynx.io). Thr
 </tr>
 </table>
 
-<a href="https://academy.zealynx.io"><img src="https://img.shields.io/badge/Start_at_academy.zealynx.io-13B7C1?style=for-the-badge&labelColor=0a0a0a" alt="Start at academy.zealynx.io"></a>
+<p align="center">
+  <a href="https://academy.zealynx.io"><img src="https://img.shields.io/badge/Start_at_academy.zealynx.io-13B7C1?style=for-the-badge&labelColor=0a0a0a" alt="Start at academy.zealynx.io"></a>
+</p>
 
 ## Krait
 
 [**Krait**](https://krait.zealynx.io) ([source](https://github.com/ZealynxSecurity/krait)). Open-source AI security auditor delivered as Claude Code skills. 845+ checks across 39 protocol types covering Solidity, Rust, Solana, AI security, and Web2. 90% precision on 40 blind Code4rena contests. Zero API cost.
+
+<p align="center">
+  <a href="https://krait.zealynx.io"><img src="https://img.shields.io/badge/Try_out_Krait-13B7C1?style=for-the-badge&labelColor=0a0a0a" alt="Try out Krait"></a>
+</p>
 
 ## Public testing campaigns
 
